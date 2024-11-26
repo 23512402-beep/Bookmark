@@ -1,0 +1,36 @@
+/* body{
+  background-color: antiquewhite;
+
+} */
+a{
+  text-decoration: none;
+}
+
+.line{
+
+display: block;
+border-bottom: 2px  black dashed;
+
+
+}
+table{
+    border: 1px solid;
+  text-align: center;
+width: 100%;
+
+
+}
+.visit{
+  background-color: darkgreen;
+  color: white;
+  padding: 5px 26px;
+  border-radius: 8px;
+  border: none;
+}
+.delete{
+  background-color: brown;
+  color: white;
+  padding: 5px 26px;
+  border-radius: 8px;
+  border: none;
+}
